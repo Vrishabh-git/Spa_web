@@ -1,0 +1,11 @@
+<svg width="360" height="96" viewBox="0 0 360 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="96" rx="48" fill="#FFF9ED"/>
+  <path d="M54 56C42 45 43 30 54 18C65 30 66 45 54 56Z" fill="#284D35"/>
+  <path d="M54 58C38 56 28 45 29 28C45 31 54 43 54 58Z" fill="#7C9364"/>
+  <path d="M54 58C70 56 80 45 79 28C63 31 54 43 54 58Z" fill="#7C9364"/>
+  <path d="M54 64C42 67 30 62 22 50C37 45 49 50 54 64Z" fill="#B66A41"/>
+  <path d="M54 64C66 67 78 62 86 50C71 45 59 50 54 64Z" fill="#B66A41"/>
+  <path d="M31 70C45 76 63 76 77 70" stroke="#284D35" stroke-width="4" stroke-linecap="round"/>
+  <path d="M109 32H139V36H127V68H121V36H109V32ZM144 32H150V63H167V68H144V32ZM177 32H184L198 68H192L189 60H172L169 68H163L177 32ZM174 55H187L181 39L174 55ZM204 32H210V68H204V32ZM221 32H226L246 58V32H252V68H247L227 42V68H221V32Z" fill="#25301F"/>
+  <text x="108" y="82" fill="#796756" font-family="Arial, sans-serif" font-size="12" letter-spacing="4">AYURVEDA SPA</text>
+</svg>
